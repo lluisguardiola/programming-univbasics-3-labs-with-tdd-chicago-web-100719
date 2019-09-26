@@ -5,4 +5,7 @@ difference = first_number - second_number
 product = first_number * second_number
 quotient = first_number / second_number
 
-puts "sum = #{sum}" 
+puts "sum = #{sum}"
+puts "sum = #{difference}" 
+puts "sum = #{product}" 
+puts "sum = #{quotient}" 
