@@ -6,6 +6,6 @@ product = first_number * second_number
 quotient = first_number / second_number
 
 puts "sum = #{sum}"
-puts "sum = #{difference}" 
-puts "sum = #{product}" 
-puts "sum = #{quotient}" 
+puts "difference = #{difference}" 
+puts "product = #{product}" 
+puts "quotient = #{quotient}" 
